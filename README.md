@@ -8,7 +8,7 @@ AlgoLogicLens is a modern web-based sorting algorithm visualizer that helps user
 
 <br>
 
-
+![AlgoLogicLens](assets/AlgoLogicLens.png)
 
 </div>
 
