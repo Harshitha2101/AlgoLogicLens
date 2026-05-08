@@ -81,11 +81,7 @@ AlgoLogicLens visually demonstrates how sorting algorithms manipulate data step-
 
 ```bash
 AlgoLogicLens/
-│
 ├── .github/
-│   └── SCREENSHOTS/
-│       └── AlgoLogicLens.png
-│
 ├── algorithms/
 ├── site-data/
 ├── index.html
