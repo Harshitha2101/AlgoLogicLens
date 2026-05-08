@@ -1,0 +1,36 @@
+{
+  "name": "AlgoLogicLens",
+  "short_name": "AlgoLogicLens",
+
+  "description": "Interactive sorting algorithm visualizer",
+
+  "start_url": "./",
+
+  "display": "standalone",
+
+  "background_color": "#18181d",
+
+  "theme_color": "#ff4d94",
+
+  "orientation": "portrait",
+
+  "icons": [
+    {
+      "src": "./site-data/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+
+    {
+      "src": "./site-data/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+
+    {
+      "src": "./site-data/icon-144x144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    }
+  ]
+}
